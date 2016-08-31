@@ -5,4 +5,4 @@ machine:
 # Configure final artifact location
 general:
     artifacts:
-        - "target/  HangarDoorPlugin.jar"
+        - "target/  hangardoorplugin.jar"
