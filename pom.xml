@@ -19,7 +19,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
          <dependency>
              <groupId>org.bukkit</groupId>
              <artifactId>bukkit</artifactId>
-             <version>1.10-R0.1-SNAPSHOT</version>
+             <version>1.11.2-R0.1-SNAPSHOT</version>
          </dependency>
      </dependencies>
      
